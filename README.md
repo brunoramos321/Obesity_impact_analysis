@@ -4,6 +4,10 @@ This project explores how obesity (specifically high BMI) contributes to mortali
 
 The idea was simple: understand the **real health cost of obesity**, not just as a percentage, but in actual human lives.
 
+## 📊 Interactive Dashboard
+
+[**View the Tableau Dashboard**](https://public.tableau.com/views/BurdenedbyWeight_HowHighBMIInfluencesDeathsfromMajorNoncommunicableDiseases/IschemicDash)
+
 ## Why this project?
 
 I’m currently working through a data analyst bootcamp, and instead of doing something “safe” or easy, I wanted to work with real-world health data that actually *means* something. I wanted to go beyond dashboards and charts and ask bigger questions — like how many lives are impacted by obesity, and how it has evolved over the years.
@@ -28,13 +32,8 @@ I’m currently working through a data analyst bootcamp, and instead of doing so
 ## Tools used
 - Python (Pandas, Jupyter)
 - Data: [IHME Global Burden of Disease](https://vizhub.healthdata.org/gbd-results/)
-- Git / GitHub for version control and transparency
-
-## What’s next?
-
-This is still in progress — I’m planning to add:
-- Visualizations (matplotlib or Tableau)
-- A short write-up with insights and patterns across countries or regions
+- Tableau for visualizations  
+-Git / GitHub for version control and transparency
 
 ---
 
@@ -45,3 +44,5 @@ This is still in progress — I’m planning to add:
 
 ### Let's connect
 If you’re curious, want to collaborate, or just feel like nerding out about data: [brunoramos321](https://github.com/brunoramos321)
+
+
